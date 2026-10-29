@@ -1,29 +1,45 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|20|2022-03-25|2021-09-21|
-|2|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|15|2022-03-22|2022-03-22|
-|3|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|9|2022-03-25|2022-03-25|
-|4|[Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems](https://github.com/Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems)|分布式有限时间异质多智能体系统一致性|8|2022-03-25|2022-03-25|
-|5|[Taoistzou/preset-time-consensus](https://github.com/Taoistzou/preset-time-consensus)|预定义时间一致性|8|2022-03-25|2022-03-25|
-|6|[Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances](https://github.com/Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances)|固定时间二分一致性|7|2022-03-25|2022-03-25|
-|7|[Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols](https://github.com/Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols)|具有自适应动态协议的线性多智能体系统的分布式一致性|7|2022-03-25|2022-03-25|
-|8|[Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems](https://github.com/Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems)|二阶多智能体系统固定时间一致性|7|2022-03-25|2022-03-25|
-|9|[Taoistzou/fixed-time-consensus-with-input-time-delay](https://github.com/Taoistzou/fixed-time-consensus-with-input-time-delay)|输入时延下的固定是时延一致性|7|2022-03-25|2022-03-25|
-|10|[Taoistzou/consensus-tracking-](https://github.com/Taoistzou/consensus-tracking-)|高阶系统固定时间一致性追踪|7|2022-03-22|2022-03-22|
-|11|[Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-](https://github.com/Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-)|滑模控制二阶系统固定时间一致性|6|2022-03-25|2022-03-25|
-|12|[Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-](https://github.com/Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-)|二阶系统比例一致性|6|2022-03-25|2022-03-25|
-|13|[Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems](https://github.com/Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems)|异质多智能体系统固定时间一致性跟踪|6|2022-03-25|2022-03-25|
-|14|[Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems](https://github.com/Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems)|欧拉拉格朗系统一致性跟踪|6|2022-03-23|2022-03-23|
-|15|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|5|2022-04-02|2021-08-03|
-|16|[suntong-1221/EV_Model](https://github.com/suntong-1221/EV_Model)|纯电动汽车simulink模型|4|2022-02-22|2022-02-10|
-|17|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|4|2022-02-11|2022-01-13|
-|18|[Shizhaoyu7288/GA-SVM](https://github.com/Shizhaoyu7288/GA-SVM)|使用遗传算法优化支持向量机/Optimization of support vector machine using genetic algorithm|3|2022-03-16|2022-03-16|
-|19|[zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling)|“华为杯”中国研究生数学建模竞赛相关优化类型的部分代码|3|2022-03-24|2021-12-09|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|2024-08-05|2024-07-08|
+|2|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|2024-06-12|2024-05-28|
+|3|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|19|2024-05-13|2024-01-24|
+|4|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|2024-06-21|2024-02-19|
+|5|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|2024-06-09|
+|6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|2024-09-05|2024-02-05|
+|7|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|13|2024-09-30|2023-11-21|
+|8|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|2024-05-04|
+|9|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|2024-04-21|
+|10|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|2024-06-23|
+|11|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|2024-05-25|2024-05-25|
+|12|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
+|13|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
+|14|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|7|2024-04-14|2024-04-04|
+|15|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|7|2024-07-26|2024-02-29|
+|16|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
+|17|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|2024-04-26|
+|18|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
+|19|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|4|2024-10-11|2024-10-07|
+|20|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
+|21|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|4|2024-07-08|2024-07-08|
+|22|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|2024-05-23|2024-05-23|
+|23|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
+|24|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|2024-09-14|2024-09-14|
+|25|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
+|26|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
+|27|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-09-13|2024-06-20|
+|28|[RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF](https://github.com/RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF)|基于模糊控制的扩展卡尔曼滤波SOC估计|3|2024-06-19|2024-06-19|
+|29|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
+|30|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|2024-05-25|2024-05-25|
+|31|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
+|32|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
+|33|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
+|34|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
+|35|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,31 +1,35 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4060|2|2022-07-01|
-|2|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|800|2|2022-04-03|
-|3|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|16|0|2022-02-19|
-|4|[leobbs/leobbs](https://github.com/leobbs/leobbs)|雷傲论坛, demo地址https://leobbs.org|5|0|2022-03-31|
-|5|[g0v/moedict-data-twblg](https://github.com/g0v/moedict-data-twblg)|臺灣閩南語常用詞辭典 資料檔|52|0|2022-03-31|
-|6|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|378|0|2022-03-09|
-|7|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|20|0|2022-03-28|
-|8|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|211|0|2022-04-03|
-|9|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2022-03-28|
-|10|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|44|0|2022-03-03|
-|11|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|187|0|2022-04-02|
-|12|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|322|0|2022-03-31|
-|13|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台/监控系统/故障自愈/K8S集群管理|140|0|2022-04-03|
-|14|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|87|0|2022-03-23|
-|15|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|3|0|2022-02-26|
-|16|[hellojukay/with-env](https://github.com/hellojukay/with-env)|给命令注入环境变量， 支持 Darwin, Linux, Windows 系统|3|0|2022-04-03|
-|17|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1044|0|2022-04-02|
-|18|[naoya/md2inao](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|197|0|2022-03-03|
-|19|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|82|0|2022-04-02|
-|20|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|59|0|2022-02-19|
-|21|[tp7309/tt7zcrack](https://github.com/tp7309/tt7zcrack)|7z辅助破解工具 Fast 7zip crack assistant tool which support GPU/CPU, written in Python.|14|0|2022-02-12|
+|1|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|18|0|2024-06-18|
+|2|[wisdomfusion/qqwry.dat](https://github.com/wisdomfusion/qqwry.dat)|纯真IP地址数据库镜像，mirror of qqwry.dat|392|0|2024-09-19|
+|3|[zhy201810576/ETagCN](https://github.com/zhy201810576/ETagCN)|基于Difegue编写的E-Hentai插件进行改良，结合EhTagTranslation项目提供的数据库转换来自E-Hentai上的英文标签为中文标签。|62|0|2024-06-17|
+|4|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|0|2024-08-08|
+|5|[makotoga/o-dic](https://github.com/makotoga/o-dic)|沖縄辞書|2|0|2024-05-23|
+|6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|146|0|2024-07-26|
+|7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|440|0|2024-08-06|
+|8|[kbnote/slowsql-analysis](https://github.com/kbnote/slowsql-analysis)|分析mysql的慢查询可视化分析|7|0|2024-04-16|
+|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|281|0|2024-10-11|
+|10|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|947|0|2024-10-08|
+|11|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|68|0|2024-08-16|
+|12|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|305|0|2024-10-11|
+|13|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2024-05-04|
+|14|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|0|2024-08-23|
+|15|[YoseR1cho/steamcommunity_302_V12.0.4](https://github.com/YoseR1cho/steamcommunity_302_V12.0.4)|集成多种功能steam工具箱 支持github加速|3|0|2024-07-12|
+|16|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1279|0|2024-09-17|
+|17|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|98|0|2024-10-11|
+|18|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|92|0|2024-04-23|
+|19|[leolovenet/qqwry2mmdb](https://github.com/leolovenet/qqwry2mmdb)|为 Wireshark 能使用纯真网络 IP 数据库(QQwry)而提供的格式转换工具|159|0|2024-10-01|
+|20|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|111|0|2024-08-17|
+|21|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|0|2024-05-31|
+|22|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|103|0|2024-08-15|
+|23|[zetaraku/akimono-archive](https://github.com/zetaraku/akimono-archive)|Recovered source code of the CGI game 商人物語|3|0|2024-04-29|
+|24|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|92|0|2024-05-30|
+|25|[KiWinger/IYUUPlus-Allinone](https://github.com/KiWinger/IYUUPlus-Allinone)|基于IYUUPlus-Dev原版，优化安装流程并整合为一体包，无需安装其他任何文件即可运行IYUUPlus。|6|0|2024-07-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

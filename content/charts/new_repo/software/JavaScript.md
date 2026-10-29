@@ -1,64 +1,77 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|23511|2022-07-19|2021-08-07|
-|2|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|4372|2022-07-30|2021-10-16|
-|3|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|2001|2022-07-13|2021-08-12|
-|4|[Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)|原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回|1418|2022-08-02|2021-11-02|
-|5|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1322|2022-03-10|2021-11-19|
-|6|[Java-S12138/frank](https://github.com/Java-S12138/frank)|一款全新的英雄联盟(LOL)助手软件.............. A bran-new League of Legends assistant software, a replacement for WeGame.|1259|2022-08-02|2022-07-04|
-|7|[KingRan/KR](https://github.com/KingRan/KR)|-|1002|2022-07-31|2022-02-11|
-|8|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|1002|2022-08-02|2021-09-02|
-|9|[vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine)|StandWithUkraine support materials|963|2022-07-26|2022-02-28|
-|10|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|948|2022-07-11|2021-10-20|
-|11|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|926|2022-08-02|2021-10-15|
-|12|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|807|2022-07-31|2021-08-17|
-|13|[foamzou/melody](https://github.com/foamzou/melody)|我的音乐精灵|763|2022-07-31|2021-12-05|
-|14|[tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)|Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架|726|2022-07-28|2021-12-21|
-|15|[easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)|Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。|673|2022-08-01|2022-05-21|
-|16|[uappkit/uapp](https://github.com/uappkit/uapp)|uniapp是一个基于Vue同构技术的多平台前端框架，熟悉Vue就可以同时写App(android/ios)，H5，微信/抖音/百度/支付宝等各家小程序，维护一套代码可以发布10多个平台。uapp 是一个提升 uniapp 开发效率的脚手架工具，类似 cordova, ionic, expo 的作用。uapp还包含 uapp-android, uapp-ios 两个平台的模板代码。|659|2022-06-12|2022-02-15|
-|17|[anaer/Sub](https://github.com/anaer/Sub)|自用clash订阅链接|602|2022-08-02|2021-11-04|
-|18|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|590|2022-07-27|2021-10-24|
-|19|[Nerver4Ever/SevenSha1UIAdvancedHelper](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper)|转存助手ui优化版|542|2022-06-16|2022-04-26|
-|20|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |517|2022-08-02|2021-08-25|
-|21|[Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator)|免安装一键还原Obfuscator混淆过的代码|498|2022-05-31|2022-04-06|
-|22|[cilame/v_jstools](https://github.com/cilame/v_jstools)|模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码。|495|2022-07-30|2021-09-25|
-|23|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|488|2022-05-18|2021-09-10|
-|24|[chaos-zhu/easynode](https://github.com/chaos-zhu/easynode)|一个简易的个人Linux服务器管理面板【需求与bug请提交issue】|475|2022-07-01|2022-06-08|
-|25|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|475|2022-05-25|2021-09-06|
-|26|[91p2022/91](https://github.com/91p2022/91)|91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发|469|2022-07-27|2022-04-25|
-|27|[zhengjim/camille](https://github.com/zhengjim/camille)|基于Frida的Android App隐私合规检测辅助工具|465|2022-07-08|2021-10-28|
-|28|[VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether)|Watch video together on any platform / 一起看视频，兼容所有平台|442|2022-07-30|2022-06-23|
-|29|[csmsapp/csmsapp.github.io](https://github.com/csmsapp/csmsapp.github.io)|计算机硕士出国申请   CS Masters Application|432|2022-07-30|2022-03-28|
-|30|[DualSubs/DualSubs](https://github.com/DualSubs/DualSubs)|流媒体平台字幕增强及双语模块|428|2022-06-30|2022-02-28|
-|31|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|401|2022-06-01|2022-02-08|
-|32|[sml2h3/ast_tools](https://github.com/sml2h3/ast_tools)|ast基础框架-基于babel|400|2022-03-11|2022-03-11|
-|33|[Yiov/wool](https://github.com/Yiov/wool)|略略略略略|400|2022-07-17|2021-11-06|
-|34|[zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin)|⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。|372|2022-08-02|2022-01-08|
-|35|[VirgilClyne/GetSomeFries](https://github.com/VirgilClyne/GetSomeFries)|整点薯条|363|2022-05-11|2021-12-18|
-|36|[b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner)|自动化巡航扫描框架（可用于红队打点评估）|353|2022-03-24|2022-03-17|
-|37|[eolinker/eoapi](https://github.com/eolinker/eoapi)|Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。|351|2022-08-02|2021-11-24|
-|38|[tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)|一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。|350|2022-07-28|2021-09-26|
-|39|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|344|2022-02-09|2021-09-13|
-|40|[UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram)|给女朋友做的微信小程序！情侣自己的任务和商城系统！|339|2022-07-21|2022-04-05|
-|41|[aoaostar/toolbox](https://github.com/aoaostar/toolbox)|🚀傲星工具箱，一个在线工具箱|324|2022-03-18|2021-12-21|
-|42|[CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)|FlyFish is a data visualization coding platform. We can create a data model quickly in a simple way, and quickly generate a set of data visualization solutions by dragging.|312|2022-07-29|2021-10-08|
-|43|[sansui-orz/bilibili2local](https://github.com/sansui-orz/bilibili2local)|bilibili视频下载命令行工具|305|2022-05-07|2022-04-20|
-|44|[Sean529/robFood](https://github.com/Sean529/robFood)|因为上海疫情，用于抢菜~|303|2022-06-21|2022-04-01|
-|45|[fishingworld/something](https://github.com/fishingworld/something)|个人用Surge Panel脚本|301|2022-07-26|2021-10-01|
-|46|[qulingyuan/robVeg](https://github.com/qulingyuan/robVeg)|美团买菜 抢菜脚本|293|2022-04-08|2022-04-06|
-|47|[Abbbbbi/Frida-Seccomp](https://github.com/Abbbbbi/Frida-Seccomp)|一个Android通用svc跟踪以及hook方案——Frida-Seccomp|287|2022-03-11|2022-03-11|
-|48|[open-mmlab/labelbee-client](https://github.com/open-mmlab/labelbee-client)|Out-of-the-box Annotation Toolbox|287|2022-06-20|2021-12-03|
-|49|[skygongque/tts](https://github.com/skygongque/tts)|微软azure文本转语音 音频下载|282|2022-06-06|2022-03-13|
-|50|[Mustard404/Savior](https://github.com/Mustard404/Savior)|渗透测试报告自动生成工具！|274|2022-05-09|2021-11-10|
-|51|[sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code)|表白代码收藏馆~谁说程序猿不懂浪漫❤️|269|2022-02-16|2022-01-27|
-|52|[itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js)|网页英文前部加粗 用户脚本|258|2022-05-25|2022-05-19|
-|53|[sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint)|🦥 从0到1全面掌握ESLint|255|2022-07-22|2022-06-23|
-|54|[jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc)|jsrpc,在浏览器开启一个ws和服务连接，以请求http接口的形式来和浏览器通信 ,浏览器端收到调用通信执行原先设置好的js代码并获得返回值。|228|2022-07-14|2021-09-25|
+|1|[HeyPuter/puter](https://github.com/HeyPuter/puter)|🌐 The Internet OS! Free, Open-Source, and Self-Hostable.|25203|2024-10-11|2024-03-03|
+|2|[lencx/Noi](https://github.com/lencx/Noi)|🚀 Power Your World with AI - Explore, Extend, Empower.|6274|2024-09-17|2023-10-16|
+|3|[cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io)|这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。|5004|2024-09-21|2024-06-10|
+|4|[Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)|One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,Realtime; Simultaneous support  Web / PWA / Linux / Win / MacOS platform|4895|2024-10-11|2023-11-19|
+|5|[bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)|A GUI Panel providing Worker subscriptions, Fragment settings and Warp configs, providing configs for cross-platform clients using (Sing-box, Clash and Xray cores)|4616|2024-10-10|2024-01-19|
+|6|[cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub)|这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器|3459|2024-10-09|2023-12-25|
+|7|[jofpin/turbit](https://github.com/jofpin/turbit)|Build applications, scripts, and automations powered by high-performance multicore computing using Node.js|3314|2024-08-03|2024-08-02|
+|8|[joye61/pic-smaller](https://github.com/joye61/pic-smaller)|Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently|2024|2024-09-27|2024-04-22|
+|9|[huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping)|A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台|1997|2024-06-07|2023-11-23|
+|10|[cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB)|这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接|1949|2024-10-02|2024-02-23|
+|11|[jaywcjlove/free-font](https://github.com/jaywcjlove/free-font)|收录商用免费汉字字体，还包括开源英文字体 Free Font|1820|2024-10-03|2024-07-16|
+|12|[hawk86104/icegl-three-vue-tres](https://github.com/hawk86104/icegl-three-vue-tres)|An open-source framework that enables rapid implementation of your 3D visualization projects [tres.js three.js vue3 ts]|1246|2024-10-11|2023-11-09|
+|13|[Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale)|GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.|1202|2024-07-28|2023-12-20|
+|14|[Huibq/keep-alive](https://github.com/Huibq/keep-alive)|洛雪音乐音源、MusicFree音源、落雪音乐音源|1198|2024-10-07|2024-01-28|
+|15|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|1198|2024-10-05|2023-10-18|
+|16|[ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel)|Turn your Telegram Channel into a MicroBlog.|1170|2024-09-24|2024-08-04|
+|17|[IcarusRyy/NewJob](https://github.com/IcarusRyy/NewJob)|一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1.5个月之内，红色为1.5个月以上|1044|2024-06-10|2024-05-03|
+|18|[fatwang2/search2ai](https://github.com/fatwang2/search2ai)|Help your LLMs online|1038|2024-09-10|2023-12-18|
+|19|[1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex)|Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.|961|2024-10-10|2024-06-15|
+|20|[tangzhiyao/boss-show-time](https://github.com/tangzhiyao/boss-show-time)|展示boss直聘岗位的发布时间|836|2024-08-26|2024-04-25|
+|21|[setube/vue-XiuXianGame](https://github.com/setube/vue-XiuXianGame)|文字游戏: 我的文字修仙全靠刷|757|2024-10-05|2024-07-14|
+|22|[MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)|CloudFlare 图床，基于 CloudFlare Pages 和 Telegram Bot 的免费图片托管解决方案！|736|2024-10-01|2024-07-19|
+|23|[Pactum7/ticket-grabbing](https://github.com/Pactum7/ticket-grabbing)|猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购|701|2024-07-16|2024-03-19|
+|24|[844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader)|⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O|699|2024-09-16|2024-05-17|
+|25|[huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn)|This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。|693|2024-04-20|2024-01-28|
+|26|[cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV)|这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。|690|2024-06-21|2024-03-07|
+|27|[huglemon/inwind-landing-page](https://github.com/huglemon/inwind-landing-page)|a free, open-source, powerful landing page template.|683|2024-10-09|2024-06-29|
+|28|[0xsongsu/dailytask](https://github.com/0xsongsu/dailytask)|每日签到任务|654|2024-06-14|2024-01-10|
+|29|[vastxie/99AI](https://github.com/vastxie/99AI)|99AI 稳定版：可商业化的 AI Web 应用（免授权，无后门，支持快速部署），以 ALL-IN-CHAT 为目标。已支持 AI 对话、绘图、音乐、视频功能，以及联网、思维导图等插件。|623|2024-07-31|2024-01-17|
+|30|[Repcz/Tool](https://github.com/Repcz/Tool)|Ownuse|581|2024-10-11|2023-11-16|
+|31|[743859910/Typora_Unlocker](https://github.com/743859910/Typora_Unlocker)|Typora 解锁 激活 补丁 支持的版本：1.0.0 - 1.9.5|567|2024-07-02|2024-01-28|
+|32|[fatwang2/coze2openai](https://github.com/fatwang2/coze2openai)|Turn Coze API into OpenAI|561|2024-06-14|2024-04-15|
+|33|[paladini-qa/NoDevFee](https://github.com/paladini-qa/NoDevFee)|Next Generation NoDevfee mining for Cryptocurrency/下一代反抽水挖矿软件|553|2024-09-02|2024-01-20|
+|34|[buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator)|批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统|536|2024-09-30|2023-12-21|
+|35|[liu673cn/box](https://github.com/liu673cn/box)|自用，勿宣传。|510|2024-10-01|2023-12-19|
+|36|[0-RTT/telegraph](https://github.com/0-RTT/telegraph)|基于 Cloudflare Worker 和 Pages 的图床，轻松实现无服务器部署！|492|2024-10-07|2024-03-24|
+|37|[xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat)|一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台|487|2024-10-10|2024-04-03|
+|38|[jaaronkot/picprose](https://github.com/jaaronkot/picprose)|Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others|475|2024-07-06|2024-04-03|
+|39|[luestr/ProxyResource](https://github.com/luestr/ProxyResource)|收集整理并维护的Loon和Clash资源|466|2024-10-11|2024-04-16|
+|40|[ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev)|IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持连接远程下载器等。|443|2024-09-30|2024-04-15|
+|41|[ansoncloud8/am-tunnel](https://github.com/ansoncloud8/am-tunnel)|这是一个基于 Cloudflare Workers 和 Pages平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS、trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。|407|2024-10-06|2024-05-25|
+|42|[jason5ng32/OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal)|使用日历软件订阅美股的财报日期|401|2024-10-11|2024-02-23|
+|43|[ShilongLee/Crawler](https://github.com/ShilongLee/Crawler)|抖音爬虫(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫开源api接口服务器。docker一键快速部署。|395|2024-10-02|2024-05-24|
+|44|[ai365vip/chat-api](https://github.com/ai365vip/chat-api)|基于One API与New API的基础上进行二次开发|389|2024-10-11|2023-12-27|
+|45|[byebyehair/minichat](https://github.com/byebyehair/minichat)|Minichat，Go语言实现的极简、极轻、无痕、匿名的聊天工具。|376|2024-08-18|2024-06-19|
+|46|[ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts)|👏 人民的勤务员脚本 包罗万象，应有尽有 👏 |376|2024-10-11|2024-06-17|
+|47|[veasion/aippt](https://github.com/veasion/aippt)|AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a ...|372|2024-09-27|2024-07-04|
+|48|[cmliu/CF-Workers-Raw](https://github.com/cmliu/CF-Workers-Raw)|这个项目允许你通过Cloudflare Workers安全地访问GitHub私有仓库中的原始文件，无需直接暴露你的GitHub令牌。|363|2024-08-10|2024-06-03|
+|49|[MetaLowCodeTeam/MetaLowCode](https://github.com/MetaLowCodeTeam/MetaLowCode)|MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。|357|2024-09-02|2023-11-22|
+|50|[bnmgh1/NodeSandbox](https://github.com/bnmgh1/NodeSandbox)|Node补环境框架|343|2024-08-19|2024-03-11|
+|51|[mumuy/widget-qrcode](https://github.com/mumuy/widget-qrcode)|二维码组件 - 二维码插件/二维码美化/二维码库/二维码图片/QRCode tool/QRCode WebCompotent/QRCode Beautify|340|2024-09-10|2024-05-15|
+|52|[smallfawn/decode_action](https://github.com/smallfawn/decode_action)|世界上本来不存在加密，加密的人多了，也便成就了解密|336|2024-10-11|2024-06-27|
+|53|[liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts)|I know what your pet is thinking - gemini|327|2024-06-17|2024-01-03|
+|54|[V2RaySSR/Free-VLESS](https://github.com/V2RaySSR/Free-VLESS)|通过 Cloudflare，免费部署 VLESS节点|323|2024-08-18|2024-05-16|
+|55|[catsats/backpack_exchange](https://github.com/catsats/backpack_exchange)|backpack 刷交易量 JavaScript 刷市场所有的代币|322|2024-04-17|2024-02-17|
+|56|[pysunday/rs-reverse](https://github.com/pysunday/rs-reverse)|瑞数vmp纯算法逆向，补环境框架sdenv的灵感来源|319|2024-04-21|2023-11-29|
+|57|[pudongping/mp-vx-insight](https://github.com/pudongping/mp-vx-insight)|微信公众号小助手，扩展了一键获取微信公众号文章封面图、全部文章、一键采集文章内容等功能。|301|2024-08-06|2024-07-03|
+|58|[dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts)|linux.do 增强插件，功能持续更新，欢迎提出新想法！|288|2024-10-09|2024-08-05|
+|59|[mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM)|One-KVM，结合玩客云和PiKVM，实现低成本远控方案。|282|2024-09-03|2023-11-25|
+|60|[linyuxuanlin/Gallery-Portfolio](https://github.com/linyuxuanlin/Gallery-Portfolio)|一个简单的瀑布流摄影作品展示站，图片储存在免费的 Cloudflare R2|280|2024-05-30|2024-04-25|
+|61|[DamodarPatil/-NoDevFee-](https://github.com/DamodarPatil/-NoDevFee-)|Next Generation NoDevfee mining for Cryptocurrency/下一代反抽水挖矿软件|280|2024-09-03|2024-04-03|
+|62|[ArchiDreamZ/Living_With_Sister-Monochrome_Fantasy-Android-Chinese_Localization](https://github.com/ArchiDreamZ/Living_With_Sister-Monochrome_Fantasy-Android-Chinese_Localization)|妹相随：黑白世界的缤纷冒险-安卓版（黑白版&彩绘版），彼梦精翻汉化&彩绘更新|270|2024-10-10|2024-04-11|
+|63|[ximu3/vnite](https://github.com/ximu3/vnite)|视觉小说 / Galgame 管理软件|268|2024-10-11|2024-07-16|
+|64|[zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive)|iptv直播源、4k点播源地址|268|2024-10-10|2024-02-26|
+|65|[systemmin/kill-doc](https://github.com/systemmin/kill-doc)|看到经常有小伙伴们需要下载一些免费文档，但是相关网站浏览体验不好各种广告，各种登录验证，需要很多步骤才能下载文档，该脚本就是为了解决您的烦恼而诞生，尽可能做到自动化|266|2024-10-11|2024-05-18|
+|66|[3288588344/toulu](https://github.com/3288588344/toulu)|青龙面板脚本   青龙脚本      QQ频道：98do10s246      tg频道：https://t.me/TLtoulu|256|2024-10-06|2024-06-15|
+|67|[bravekingzhang/gpt-frontend-code-gen](https://github.com/bravekingzhang/gpt-frontend-code-gen)|一个生成前端页面和组件代码的神器，支持Chakra UI 、ShadcnUI ，支持本地大模型、可对话不断调整效果，直到获得满意的效果|254|2024-07-01|2024-06-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

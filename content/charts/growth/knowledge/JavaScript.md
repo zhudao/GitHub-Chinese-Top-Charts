@@ -1,210 +1,165 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > JavaScript
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|146959|92|2022-08-01|
-|2|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|125208|35|2022-07-27|
-|3|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|70247|34|2022-07-10|
-|4|[scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)|深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0 ...|48628|32|2022-07-16|
-|5|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)| LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|48874|31|2022-07-21|
-|6|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|35442|23|2022-07-31|
-|7|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|51784|23|2022-07-28|
-|8|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|34728|21|2022-08-02|
-|9|[eryajf/HowToStartOpenSource](https://github.com/eryajf/HowToStartOpenSource)|⚗️ GitHub开源项目维护协作指南|675|21|2022-08-02|
-|10|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|21783|18|2022-08-01|
-|11|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)|18603|17|2022-07-31|
-|12|[denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)|🤪 A list of funny and tricky JavaScript examples|27271|15|2022-07-21|
-|13|[elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)|A set of best practices for JavaScript projects|27116|15|2022-06-14|
-|14|[zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新|19667|15|2022-07-11|
-|15|[adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap)|Roadmap to becoming a React developer|17285|11|2022-03-06|
-|16|[qianguyihao/Web](https://github.com/qianguyihao/Web)|千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。|21116|10|2022-07-31|
-|17|[stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)|:scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso|13389|10|2022-07-21|
-|18|[ascoders/weekly](https://github.com/ascoders/weekly)|前端精读周刊。帮你理解最前沿、实用的技术。|20260|10|2022-08-01|
-|19|[BetaSu/fe-hunter](https://github.com/BetaSu/fe-hunter)|每天一道题，3个月后，你就是面试小能手，答题还能赚钱哦|1375|10|2022-04-22|
-|20|[timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)|中文独立博客列表|9625|9|2022-08-02|
-|21|[zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)|🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~|10424|9|2022-07-30|
-|22|[ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)|本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。|21673|8|2022-07-25|
-|23|[camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery)|Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.|20213|8|2022-05-26|
-|24|[chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)|收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料|16718|8|2022-05-16|
-|25|[git-tips/tips](https://github.com/git-tips/tips)|Most commonly used git tips and tricks.|20360|8|2022-04-14|
-|26|[ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)|《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。|20153|7|2022-07-31|
-|27|[lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview)|🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器|5547|7|2022-07-21|
-|28|[troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)|A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web|6007|7|2022-08-01|
-|29|[TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js)|油猴等插件的 学习强国 js 代码 45分/天|1773|6|2022-03-29|
-|30|[alsotang/node-lessons](https://github.com/alsotang/node-lessons)|:closed_book:《Node.js 包教不包会》 by alsotang|16427|6|2022-02-15|
-|31|[dundunnp/auto_xuexiqiangguo](https://github.com/dundunnp/auto_xuexiqiangguo)|每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本|1452|6|2022-08-01|
-|32|[itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)|😩「能不能好好说话？」 拼音首字母缩写翻译工具|4886|6|2022-05-20|
-|33|[flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action)|《Flutter实战》电子书|8698|6|2022-07-21|
-|34|[apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh)|ApacheCN 数据结构与算法译文集|10625|6|2022-07-07|
-|35|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5797|6|2022-07-15|
-|36|[BetaSu/just-react](https://github.com/BetaSu/just-react)|「React技术揭秘」  一本自顶向下的React源码分析书|4717|6|2022-07-29|
-|37|[ljianshu/Blog](https://github.com/ljianshu/Blog)|关注基础知识，打造优质前端博客，公众号[前端工匠]的作者|7207|5|2022-07-20|
-|38|[zkqiang/hangzhou-house-guide](https://github.com/zkqiang/hangzhou-house-guide)|2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。|760|5|2022-05-26|
-|39|[qq281113270/vue](https://github.com/qq281113270/vue)|vue源码逐行注释分析+40多m的vue源码程序流程图思维导图|4986|4|2022-06-27|
-|40|[liyupi/code-nav](https://github.com/liyupi/code-nav)|💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！|2148|4|2022-03-01|
-|41|[LeeJim/HowToCookOnMiniprogram](https://github.com/LeeJim/HowToCookOnMiniprogram)|程序员做菜指南 for Miniprogram，将程序员精神贯彻到底|444|3|2022-05-06|
-|42|[ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap)|Tell you how to learn front end development ~|2045|3|2022-05-16|
-|43|[course-dasheng/fe-algorithm](https://github.com/course-dasheng/fe-algorithm)|前端啃算法，一次性解决前端工程师的算法学习问题|407|3|2022-07-06|
-|44|[HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)|📖 master分支：《渲染器》|5902|3|2022-07-20|
-|45|[ttglad/learning](https://github.com/ttglad/learning)|学习强国浏览器插件，自动阅读、观看视频、每日答题、每周答题、专项答题，每日45分！|497|2|2022-06-24|
-|46|[fantasticit/think](https://github.com/fantasticit/think)|云策文档是一款开源知识管理工具。通过独立的知识库空间，结构化地组织在线协作文档，实现知识的积累与沉淀，促进知识的复用与流通。|330|2|2022-05-24|
-|47|[apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)|Pytorch 中文文档|3565|2|2022-07-07|
-|48|[lukesyy/jd_yun](https://github.com/lukesyy/jd_yun)|JD合集-----云函数and青龙|651|2|2022-04-26|
-|49|[langren1353/GM_script](https://github.com/langren1353/GM_script)|我就是来分享脚本玩玩的|4883|2|2022-06-20|
-|50|[thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)|A game for learning CSS flexbox 🐸|5759|2|2022-07-28|
-|51|[RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)|RustMagazine 2021 期刊 (已完结)|939|2|2022-05-04|
-|52|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|924|2|2022-08-02|
-|53|[feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)|The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀 |2946|2|2022-03-08|
-|54|[zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)|🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~|2168|2|2022-02-13|
-|55|[adlered/CSDNGreener](https://github.com/adlered/CSDNGreener)|《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿   专治 CSDN 广告与各种灵魂打击   🐵 油猴脚本   TamperMonkey   Chrome   FireFox   CSDN 页面浮窗广告完全过滤净化   国服最强 CSDN 绿化脚本|2389|2|2022-07-23|
-|56|[wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)|每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。|2139|2|2022-07-04|
-|57|[lefex/FE](https://github.com/lefex/FE)|前端 100 天，帮助 10W 人入门并进阶前端。|1570|2|2022-07-21|
-|58|[YvetteLau/Blog](https://github.com/YvetteLau/Blog)|【前端进阶】优质博文|2646|2|2022-07-20|
-|59|[itheima1/BlockChain](https://github.com/itheima1/BlockChain)|黑马程序员 120天全栈区块链开发 开源教程|3665|2|2022-07-28|
-|60|[kdchang/reactjs101](https://github.com/kdchang/reactjs101)|從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 ReactJS 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。|4080|2|2022-07-22|
-|61|[denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook)|:book: For those who wanna learn Bash|4959|2|2022-04-21|
-|62|[reruin/sharelist](https://github.com/reruin/sharelist)|快速分享 GoogleDrive OneDrive |2595|2|2022-06-26|
-|63|[su37josephxia/wheel-awesome](https://github.com/su37josephxia/wheel-awesome)|天天造轮子，手写面试常见源码。|1077|1|2022-06-24|
-|64|[meodai/color-names](https://github.com/meodai/color-names)|Large list of handpicked color names 🌈|1596|1|2022-07-07|
-|65|[jiangqizheng/BlueSea](https://github.com/jiangqizheng/BlueSea)|BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...|751|1|2022-07-17|
-|66|[teadocs/pandas-cn](https://github.com/teadocs/pandas-cn)|Pandas中文文档，欢迎贡献！|790|1|2022-07-20|
-|67|[Gitjinfeiyang/easy-canvas](https://github.com/Gitjinfeiyang/easy-canvas)|使用render函数在canvas中创建文档流布局，小程序海报图、小程序朋友圈分享图。easy-canvas is a powerful tool helps us easy to layout with canvas. |519|1|2022-03-10|
-|68|[muwoo/blogs](https://github.com/muwoo/blogs)|📚一个前端的博客。|2005|1|2022-05-16|
-|69|[lateautumn4lin/Review_Reverse](https://github.com/lateautumn4lin/Review_Reverse)|:wave:2019年末总结下今年做过的逆向，整理代码，复习思路。:pray:拼夕夕Web端anti_content参数逆向分析:japanese_goblin: WEB淘宝sign逆向分析；:smiley_cat:努比亚Cookie生成逆向分析；:raised_hands:百度指数data加密逆向分析 :footprints:今日头条WEB端_signature、as、cp参数逆向分析:note ...|1397|1|2022-07-06|
-|70|[icepy/Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)|💰 Awesome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。|2862|1|2022-06-25|
-|71|[xuhuai66/used-book-pro](https://github.com/xuhuai66/used-book-pro)|微信小程序云开发校园二手书商城，可在线支付提现，源码全开源|1172|1|2022-07-18|
-|72|[sanyuan0704/my_blog](https://github.com/sanyuan0704/my_blog)|神三元的博客，一起构建完整知识体系|1198|1|2022-07-21|
-|73|[xland/redredstar](https://github.com/xland/redredstar)|“想学吗”个人知识管理与自媒体营销工具|1344|1|2022-04-03|
-|74|[kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp)|微信小程序，考试小程序，答题小程序，刷题小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。|634|1|2022-07-25|
-|75|[a1029563229/blogs](https://github.com/a1029563229/blogs)|博客文章收录|680|1|2022-07-21|
-|76|[ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport)|QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存|906|1|2022-06-19|
-|77|[sve1r/Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)|适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理 |907|1|2022-07-28|
-|78|[cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli)|超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。|342|1|2022-08-01|
-|79|[Veal98/cs-wiki](https://github.com/Veal98/cs-wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|643|1|2022-07-13|
-|80|[jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)|A curated list of awesome JSON datasets that don't require authentication.|2580|1|2022-03-28|
-|81|[apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh)|ApacheCN 深度学习译文集|444|1|2022-07-07|
-|82|[woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles)|分享我的编程经验和学习心得，订阅请点 watch。|867|1|2022-07-19|
-|83|[alwxkxk/soft-and-hard](https://github.com/alwxkxk/soft-and-hard)|《软硬结合——从零打造物联网》 基于JS的物联网教程。|877|1|2022-07-08|
-|84|[rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn)|Rust By Example 中文版(包含在线代码编辑器)|1202|1|2022-07-10|
-|85|[thomaspark/gridgarden](https://github.com/thomaspark/gridgarden)|A game for learning CSS grid layout 🥕|2591|1|2022-05-21|
-|86|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2331|1|2022-07-31|
-|87|[dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial)|这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|1530|1|2022-07-15|
-|88|[sec-an/Better-Auto-XXQG](https://github.com/sec-an/Better-Auto-XXQG)|学习强国 基于Auto.js实现的学习助手 免root 适配安卓 自动化脚本 热更新|236|1|2022-07-21|
-|89|[anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library)|Curated list of framework component libraries for UI styles/toolkit|758|1|2022-02-26|
-|90|[channingbreeze/games](https://github.com/channingbreeze/games)|一个基于Phaser的小游戏集合|1408|1|2022-05-23|
-|91|[Simp1er/AndroidSec](https://github.com/Simp1er/AndroidSec)|记录一些我自己在学习Android逆向过程中的有意思的东西|531|1|2022-03-08|
-|92|[nefe/redux-in-chinese](https://github.com/nefe/redux-in-chinese)|Redux 中文文档|3448|1|2022-08-01|
-|93|[BingKui/javascript-zh](https://github.com/BingKui/javascript-zh)|Airbnb 出品，目前非常流行的 JavaScript 代码规范（中文版）。其内对各种 js 范式的写法进行了详细的规定与说明，按照此规范写出的代码将会更加合理。|1294|1|2022-06-07|
-|94|[webfansplz/article](https://github.com/webfansplz/article)|record and share|660|1|2022-07-18|
-|95|[ITDragonBlog/daydayup](https://github.com/ITDragonBlog/daydayup)|每天都在进步，每周都在总结，Java架构师成长之路。目前已经完成：MongoDB，Netty，Nginx，MySQL，Java，Redis，Shiro，Solr，SpringBoot，SpringData，SSO，Mybatis，Kotlin，还在持续更新中|1172|1|2022-07-15|
-|96|[marcelscruz/dev-resources](https://github.com/marcelscruz/dev-resources)|A collaborative list of resources for developers|552|1|2022-07-26|
-|97|[cn-panda/JavaCodeAudit](https://github.com/cn-panda/JavaCodeAudit)|Getting started with java code auditing  代码审计入门的小项目|604|1|2022-07-15|
-|98|[imfly/bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs)|《Node.js区块链开发》，注：新版代码已开源！请star支持哦-^-：|2427|1|2022-07-31|
-|99|[tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor)|Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/|1337|1|2022-06-24|
-|100|[leochen-g/wechatBot](https://github.com/leochen-g/wechatBot)|微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题|1697|1|2022-07-26|
-|101|[goldvideo/h265player](https://github.com/goldvideo/h265player)|一套完整的Web版H.265播放器解决方案，非常适合学习交流和实际应用。基于JS码流解封装、WebAssembly(FFmpeg)视频解码，利用Canvas画布投影、AudioContext播放音频。  |1037|1|2022-06-01|
-|102|[cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab)|:bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP|1415|1|2022-07-20|
-|103|[qiushi123/xiaochengxu_demos](https://github.com/qiushi123/xiaochengxu_demos)|小程序优秀项目源码汇总，每个项目都有图有源码，零基础学微信小程序，小程序表格，小程序视频，小程序视频弹幕，小程序仿天猫大转盘抽奖等源码，小程序云开发，小程序发邮件，小程序支付，微信支付，持续更新。。。|1195|1|2022-07-18|
-|104|[Hedilict/QuantumultX](https://github.com/Hedilict/QuantumultX)|QuantumultX去广告，签到等脚本合集|463|1|2022-06-22|
-|105|[soyaine/JavaScript30](https://github.com/soyaine/JavaScript30)|有关 @wesbos 的课程 JavaScript-30 的中文练习指南|2126|1|2022-07-11|
-|106|[marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript)|The sources for the Eloquent JavaScript book|2724|1|2022-07-24|
-|107|[Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)|Rust 编码规范 中文版 （非官方）|677|1|2022-07-10|
-|108|[Tsukasa007/my_script](https://github.com/Tsukasa007/my_script)|學習自動化|346|1|2022-07-29|
-|109|[sl1673495/blogs](https://github.com/sl1673495/blogs)|:book: 全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……|2089|1|2022-07-21|
-|110|[QuarkGluonPlasma/babel-plugin-exercize](https://github.com/QuarkGluonPlasma/babel-plugin-exercize)|小册《babel插件通关秘籍》实战案例代码|369|1|2022-07-28|
-|111|[lihongxun945/gobang](https://github.com/lihongxun945/gobang)|javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）|1324|1|2022-03-07|
-|112|[qinhua/halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0)|🌈 一款 Halo 博客主题 Joe2.0|367|1|2022-06-03|
-|113|[shaoxiongji/knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs)|A collection of research on knowledge graphs|1266|1|2022-03-24|
-|114|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|1085|1|2022-07-31|
-|115|[auto-xxqg/auto-xxqg](https://github.com/auto-xxqg/auto-xxqg)|最新版的 自动学习强国 |692|1|2022-07-05|
-|116|[f2e-awesome/knowledge](https://github.com/f2e-awesome/knowledge)|文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。|1722|1|2022-07-04|
-|117|[Nealyang/React-Express-Blog-Demo](https://github.com/Nealyang/React-Express-Blog-Demo)|:fire: React full stack+Express+Mongo implementation blog website tutorial :new_moon_with_face:|1891|1|2022-02-11|
-|118|[bradvin/social-share-urls](https://github.com/bradvin/social-share-urls)|Social Share URLs|2441|1|2022-04-29|
-|119|[Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract)|MediaSource 视频提取教程|496|1|2022-03-19|
-|120|[akira-cn/FE_You_dont_know](https://github.com/akira-cn/FE_You_dont_know)|分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。|797|1|2022-07-20|
-|121|[xushengfeng/eSearch](https://github.com/xushengfeng/eSearch)|截屏OCR搜索翻译以图搜图贴图录屏 Screenshot  OCR  search  translate  search for picture  paste the picture on the screen  screen recorder|436|1|2022-07-29|
-|122|[hajiuhajiu/jdsign1112](https://github.com/hajiuhajiu/jdsign1112)|仅限学习调试使用|360|1|2022-02-07|
-|123|[XPoet/js-data-structures-and-algorithms](https://github.com/XPoet/js-data-structures-and-algorithms)|从 0 到 1 学习 JavaScript 数据结构与算法|1065|1|2022-07-21|
-|124|[amandakelake/blog](https://github.com/amandakelake/blog)|think more！learn more!|2040|1|2022-04-30|
-|125|[llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese)|函数式编程指北中文版|2172|1|2022-07-15|
-|126|[JinJieTan/Peter-](https://github.com/JinJieTan/Peter-)|Peter的手写源码集合|387|1|2022-07-20|
-|127|[waynecz/dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx)|🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步|1574|1|2022-05-17|
-|128|[iptv-org/epg](https://github.com/iptv-org/epg)|EPG (Electronic Program Guide) for thousands of TV channels collected from different sources|685|1|2022-08-02|
-|129|[codota/jupyter-tabnine](https://github.com/codota/jupyter-tabnine)|Autocompletion with Deep Learning on Jupyter Notebook|752|1|2022-05-08|
-|130|[Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH)|VS Code插件开发文档-中文版|1492|1|2022-07-07|
-|131|[vvo/tzdb](https://github.com/vvo/tzdb)|🕰 Simplified, grouped and always up to date list of time zones, with major cities|543|1|2022-08-01|
-|132|[teadocs/numpy-cn](https://github.com/teadocs/numpy-cn)|NumPy官方中文文档（完整版）|1663|1|2022-04-28|
-|133|[savingrun/WeHalo](https://github.com/savingrun/WeHalo)|WeHalo 简约风 的微信小程序版博客:sparkles:|1396|1|2022-07-09|
-|134|[lqqyt2423/wechat_spider](https://github.com/lqqyt2423/wechat_spider)|微信爬虫，获取文章内容、阅读量、点赞量、评论等，获取公众号所有历史文章链接。|1097|1|2022-07-06|
-|135|[dingyong0214/ThorUI](https://github.com/dingyong0214/ThorUI)|ThorUI组件库，微信小程序项目代码分享，组件文档地址：https://www.thorui.cn/doc  |997|1|2022-06-06|
-|136|[wyattzheng/chaoxing-xuexitong-autoflush](https://github.com/wyattzheng/chaoxing-xuexitong-autoflush)|超星学习通全自动无人值守刷课程序，使用协议发包来实现，无需浏览器，支持自动过视频。|703|1|2022-03-10|
-|137|[eritislami/evobot](https://github.com/eritislami/evobot)|🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide|1296|1|2022-06-06|
-|138|[a-wing/webrtc-book-cn](https://github.com/a-wing/webrtc-book-cn)|中文翻译 《 Real-Time Communication with WebRTC 》|834|1|2022-04-01|
-|139|[liguobao/58HouseSearch](https://github.com/liguobao/58HouseSearch)|地图搜租房【微信公众号、小程序：人生删除指南】|1172|1|2022-07-07|
-|140|[discountry/react](https://github.com/discountry/react)|React docs in Chinese   React 中文文档翻译|1110|1|2022-07-07|
-|141|[twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)|A collaborative pixel art project to teach people how to contribute to open-source|486|0|2022-08-02|
-|142|[pingan8787/Leo-JavaScript](https://github.com/pingan8787/Leo-JavaScript)|欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...|843|0|2022-08-01|
-|143|[Wscats/react-tutorial](https://github.com/Wscats/react-tutorial)|:tiger2:Some of the react tutorial - 《React学习笔记》|362|0|2022-02-10|
-|144|[csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy)|JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！|612|0|2022-07-26|
-|145|[hijiangtao/FE-Cookbook](https://github.com/hijiangtao/FE-Cookbook)|HTML/CSS & JavaScript, Web and related. 前端手册|271|0|2022-06-29|
-|146|[ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet)|Interactive cheatsheet, visualization of git.|283|0|2022-06-10|
-|147|[hacke2/hacke2.github.io](https://github.com/hacke2/hacke2.github.io)|我的前端博客|514|0|2022-02-28|
-|148|[alienzhou/blog](https://github.com/alienzhou/blog)|📖 个人博客，分享一些前端工作学习中的收获，欢迎 ✨，博客地址>>|392|0|2022-07-22|
-|149|[wulivictor/ExamOnline](https://github.com/wulivictor/ExamOnline)|微信小程序，考试小程序，答题小程序，刷题小程序，党建小程序，知识竞赛，活动答题。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。非常适合做毕业设计。还可用于考试预约，企业内部考核，内部培训等，基于云开发，部署简单，免服务器和域名备案。|241|0|2022-07-11|
-|150|[Mayandev/fe-interview-handwrite](https://github.com/Mayandev/fe-interview-handwrite)|📖 前端面试常见手写题整理|273|0|2022-04-06|
-|151|[leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro)|智能微秘书客户端，搭配|304|0|2022-08-01|
-|152|[supnate/react-geek-time](https://github.com/supnate/react-geek-time)|极客时间《React 从入门到精通》视频课程示例代码。|580|0|2022-07-01|
-|153|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|319|0|2022-05-23|
-|154|[dcloudio/test-framework](https://github.com/dcloudio/test-framework)|框架测试汇总|349|0|2022-07-21|
-|155|[barretlee/kindleBookMaker](https://github.com/barretlee/kindleBookMaker)|Kindle Book Maker with KindleGen, Make Book from RSS/single URL/directory and so on.|387|0|2022-02-13|
-|156|[MatcherAny/whitelist.pac](https://github.com/MatcherAny/whitelist.pac)|自己使用的白名单pac文件，不定时更新常见域名|308|0|2022-08-02|
-|157|[2662419405/AllDemo](https://github.com/2662419405/AllDemo)|:peach: 2020全栈学习Demo大合集 包含最新 hooks TS 等 还有umi+dva,数据可视化等实战项目 (持续更新中)|363|0|2022-07-20|
-|158|[Hacker233/JavaScript](https://github.com/Hacker233/JavaScript)|JavaScript学习|227|0|2022-02-26|
-|159|[country-regions/country-region-data](https://github.com/country-regions/country-region-data)|A source list of countries, regions and shortcodes in JSON and JS format.|316|0|2022-07-29|
-|160|[biaochenxuying/blog-node](https://github.com/biaochenxuying/blog-node)|基于 node + express  + mongodb 的博客网站后台|471|0|2022-06-24|
-|161|[dashnowords/blogs](https://github.com/dashnowords/blogs)|个人博客，讲述野生前端码农的内功修炼和自我修养。|450|0|2022-07-18|
-|162|[57code/vue-study](https://github.com/57code/vue-study)|开课吧vue学习项目|534|0|2022-07-20|
-|163|[HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus)|:gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】|250|0|2022-03-25|
-|164|[Daotin/Web](https://github.com/Daotin/Web)|📚 从零开始学 Web 前端系列图文教程。从零开始一步步带你进入前端的世界。|401|0|2022-07-23|
-|165|[liuxing/node-abc](https://github.com/liuxing/node-abc)|《Node.js入门教程》|337|0|2022-06-25|
-|166|[zhaoqize/puppeteer-api-zh_CN](https://github.com/zhaoqize/puppeteer-api-zh_CN)|📖 Puppeteer中文文档（官方指定的中文文档）|769|0|2022-05-14|
-|167|[wangfupeng1988/node-tutorial](https://github.com/wangfupeng1988/node-tutorial)|换一种思路来学习nodejs|310|0|2022-06-28|
-|168|[yisainan/vue2](https://github.com/yisainan/vue2)|💯 比较好的vue2.X项目,值得借鉴与学习|572|0|2022-07-07|
-|169|[luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark)|在线书签管理工具|628|0|2022-02-09|
-|170|[Ahaochan/Tampermonkey](https://github.com/Ahaochan/Tampermonkey)|油猴脚本集合|593|0|2022-02-12|
-|171|[cloudnativer/kube-install](https://github.com/cloudnativer/kube-install)|一鍵安裝部署高可用的多kubernetes集羣(二進位離線方式)，支持定時安裝、添加與銷毀node、銷毀與修復master、一鍵卸載集羣等。One click offline installation of highly available multiple kubernetes cluster, supports schedule installation, addition of nodes, ...|324|0|2022-05-19|
-|172|[ops-coffee/demo](https://github.com/ops-coffee/demo)|这里汇聚了微信公众号【运维咖啡吧】文章中所讲到的各种demo|268|0|2022-04-22|
-|173|[Wscats/node-tutorial](https://github.com/Wscats/node-tutorial)|:relaxed:Some of the node tutorial -《Node学习笔记》|391|0|2022-06-17|
-|174|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|346|0|2022-07-19|
-|175|[mazipan/hello-open-source](https://github.com/mazipan/hello-open-source)|🖐️ A repository to learn about open source code contributions flow|404|0|2022-08-01|
-|176|[phpzlc/phpzlc](https://github.com/phpzlc/phpzlc)|为开发者提供全套Symfony实践教程和解决方案。|311|0|2022-03-21|
-|177|[zhaoqize/blog](https://github.com/zhaoqize/blog)|✍️qize的博客:原创文章、外文翻译、技术总结和演示代码|284|0|2022-04-28|
-|178|[talebook/talebook](https://github.com/talebook/talebook)|A simple books website. 一个简单的在线版个人书库。|795|0|2022-07-20|
-|179|[su37josephxia/learn-vue3](https://github.com/su37josephxia/learn-vue3)|vue3学习的各种实验代码|492|0|2022-07-21|
-|180|[wuyawei/fe-code](https://github.com/wuyawei/fe-code)|🍹🍰 愉快的写代码~（文章合集）|337|0|2022-07-07|
-|181|[bh-lay/blog](https://github.com/bh-lay/blog)|剧中人的nodeJS版个人博客，仅仅是前后端实现，不包含博文数据。|348|0|2022-07-27|
-|182|[apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh)|:book: [译] 写给不耐烦程序员的 JavaScript|263|0|2022-07-17|
-|183|[suoyuesmile/suo-blog](https://github.com/suoyuesmile/suo-blog)|:fox_face:技术博客文章、笔记、实战、技术探讨、资源收集等等|241|0|2022-07-21|
-|184|[apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh)|:book: [译] MachineLearningMastery 博客文章|484|0|2022-07-07|
-|185|[wjfz/weixin-jssdk](https://github.com/wjfz/weixin-jssdk)|微信新分享接口JSSDK|228|0|2022-06-23|
-|186|[imageslr/mweb-themes](https://github.com/imageslr/mweb-themes)|30+ 款 Markdown 预览主题，Typo.css、Vue、Bear、飞书云文档等风格，适用于 MWeb、Typora。|316|0|2022-07-23|
-|187|[Wscats/webpack](https://github.com/Wscats/webpack)|📜Some of the node tutorial -《Webpack学习笔记》|235|0|2022-03-30|
-|188|[ParryQiu/wxopenclub-wxapp-lessons](https://github.com/ParryQiu/wxopenclub-wxapp-lessons)|60 节微信小程序开发视频教程配套源代码|823|0|2022-07-07|
-|189|[decomoji/decomoji](https://github.com/decomoji/decomoji)|Custom icon collection for slack reaction|691|0|2022-06-22|
-|190|[bitshares/bitshares-ui](https://github.com/bitshares/bitshares-ui)|Fully featured Graphical User Interface / Reference Wallet for the BitShares Blockchain|511|0|2022-07-27|
-|191|[brucx/mp-push-leancloud](https://github.com/brucx/mp-push-leancloud)|基于 LeanCloud 的微信公众号消息推送服务，类似“server酱”，无成本5分钟部署|270|0|2022-02-10|
-|192|[cpselvis/geektime-webpack-course](https://github.com/cpselvis/geektime-webpack-course)|《玩转webpack》极客时间课程源码和课件|321|0|2022-07-21|
-|193|[apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh)|:book: [译] ApacheCN 数据科学译文集|234|0|2022-07-21|
-|194|[alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook)|An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.|877|0|2022-03-05|
-|195|[o2team/mac](https://github.com/o2team/mac)|Best Installation Guides For Full-Stack Developers Using MAC OS - MAC全栈开发环境搭建指南|252|0|2022-06-09|
-|196|[qiudaoke/flowable-userguide](https://github.com/qiudaoke/flowable-userguide)|Flowable最新中文文档,盘古BPM体验地址：http://bpm.je4.cn/|532|0|2022-07-22|
-|197|[su37josephxia/kaikeba-code](https://github.com/su37josephxia/kaikeba-code)|课上代码分享|377|0|2022-02-14|
-|198|[IceInTheFire/timotaoshu](https://github.com/IceInTheFire/timotaoshu)|提莫淘书，小说爬虫，用node爬书，node 小说，vue+express+node爬虫|461|0|2022-04-28|
-|199|[WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp)|Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.|253|0|2022-06-30|
-|200|[king-angmar/weathertop](https://github.com/king-angmar/weathertop)|J2EE学习以及Linux组件学习的日常总结，适合想了解和温习基础知识的童鞋。目前计划包含的内容有设计模式、Springboot、SpringCloud；以及Linux开源组件Redis、Kafka、Nginx、ElasticSearch、Hadoop、Zookeeper等|242|0|2022-07-06|
+|1|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|187796|78|2024-08-19|
+|2|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|144907|33|2024-10-05|
+|3|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|91462|32|2024-07-29|
+|4|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|75656|25|2024-10-11|
+|5|[scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)|深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0 ...|54456|24|2024-06-26|
+|6|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)|LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|54583|23|2024-08-12|
+|7|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|45247|19|2024-10-09|
+|8|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|41552|17|2024-10-01|
+|9|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|25339|13|2024-10-10|
+|10|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)|24002|12|2024-06-27|
+|11|[timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)|中文独立博客列表|20444|11|2024-10-11|
+|12|[koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)|A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web|18226|11|2024-09-18|
+|13|[ascoders/weekly](https://github.com/ascoders/weekly)|前端精读周刊。帮你理解最前沿、实用的技术。|28497|10|2024-09-09|
+|14|[isno/theByteBook](https://github.com/isno/theByteBook)|⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue|7137|10|2024-10-11|
+|15|[qianguyihao/Web](https://github.com/qianguyihao/Web)|千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。|26363|9|2024-09-10|
+|16|[ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)|本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。|30662|9|2024-04-14|
+|17|[sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|List of 1000 JavaScript Interview Questions|23863|9|2024-10-10|
+|18|[standard/standard](https://github.com/standard/standard)|🌟 JavaScript Style Guide, with linter & automatic code fixer|29085|8|2024-09-13|
+|19|[tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)|使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s ...|7560|7|2024-10-11|
+|20|[verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.|20060|7|2024-06-05|
+|21|[ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)|《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。|21236|6|2024-09-24|
+|22|[7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker)|无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray|490|6|2024-10-05|
+|23|[zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)|🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~|12194|6|2024-09-29|
+|24|[guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless)|DeepL Free translate API for Serverless, No TOKEN Required   DeepL 免费翻译API 无服务器函数部署，无需token|378|6|2024-10-01|
+|25|[deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules)|小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁|4991|6|2024-10-11|
+|26|[git-tips/tips](https://github.com/git-tips/tips)|Most commonly used git tips and tricks.|21317|6|2024-07-05|
+|27|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2788|6|2024-09-26|
+|28|[dirk1983/chatgpt](https://github.com/dirk1983/chatgpt)|演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆 ...|3082|5|2024-06-04|
+|29|[wanglin2/mind-map](https://github.com/wanglin2/mind-map)|一个还算强大的Web思维导图。A relatively powerful web mind map.|6241|5|2024-09-30|
+|30|[501351981/vue-office](https://github.com/501351981/vue-office)|支持word(.docx)、excel(.xlsx,.xls)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library|3717|5|2024-10-11|
+|31|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|8180|5|2024-08-30|
+|32|[liyupi/codefather](https://github.com/liyupi/codefather)|程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端|5621|4|2024-07-01|
+|33|[browserslist/browserslist](https://github.com/browserslist/browserslist)|🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env|12980|4|2024-10-04|
+|34|[daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn)|共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.|1954|4|2024-08-29|
+|35|[apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh)|ApacheCN 数据结构与算法译文集|11005|4|2024-06-19|
+|36|[BetaSu/just-react](https://github.com/BetaSu/just-react)|「React技术揭秘」  一本自顶向下的React源码分析书|6112|4|2024-07-24|
+|37|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1316|4|2024-06-10|
+|38|[WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers)|我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy|3051|4|2024-07-29|
+|39|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|A collaborative list of public APIs for developers|3879|4|2024-09-25|
+|40|[akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT)|**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic ...|2036|3|2024-07-22|
+|41|[z2586300277/three-cesium-examples](https://github.com/z2586300277/three-cesium-examples)|Open Source  three.js cesium.js examples and demo community - 开源的 three.js 和 cesium.js 案例社区 ---- star ----点星星|280|3|2024-10-11|
+|42|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型|1853|3|2024-09-23|
+|43|[ygs-code/vue](https://github.com/ygs-code/vue)|vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map)|6798|3|2024-09-04|
+|44|[ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse)|《安卓逆向这档事》|1093|3|2024-09-26|
+|45|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|463|3|2024-10-10|
+|46|[xishandong/crawlProject](https://github.com/xishandong/crawlProject)|python爬虫项目合集，从基础到js逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识|985|2|2024-09-23|
+|47|[timqian/openprompt.co](https://github.com/timqian/openprompt.co)|Create. Use. Share. ChatGPT prompts|1174|2|2024-10-10|
+|48|[sve1r/Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)|适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理 |3119|2|2024-09-16|
+|49|[wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)|A list of /uses pages detailing developer setups, gear, software and configs.|4556|2|2024-09-21|
+|50|[langren1353/GM_script](https://github.com/langren1353/GM_script)|我就是来分享脚本玩玩的|5924|2|2024-09-24|
+|51|[l0o0/translators_CN](https://github.com/l0o0/translators_CN)|Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo|4072|2|2024-10-07|
+|52|[thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)|A game for learning CSS flexbox 🐸|6892|2|2024-10-07|
+|53|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》 书稿|2199|2|2024-04-17|
+|54|[zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)|🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~|2596|2|2024-09-28|
+|55|[adlered/CSDNGreener](https://github.com/adlered/CSDNGreener)|《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿   专治 CSDN 广告与各种灵魂打击   🐵 油猴脚本   TamperMonkey   Chrome   FireFox   CSDN 页面浮窗广告完全过滤净化   国服最强 CSDN 绿化脚本|3629|2|2024-07-18|
+|56|[lyricat/wechat-format](https://github.com/lyricat/wechat-format)|微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML|4321|2|2024-05-30|
+|57|[wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push)|微信公众号推送-给女朋友的浪漫|1660|2|2024-07-08|
+|58|[fmz200/wool_scripts](https://github.com/fmz200/wool_scripts)|收集一些QuantumultX、Loon、Surge、ShadowRocket的配置与脚本，去广告合集。|1758|2|2024-10-11|
+|59|[ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap)|Tell you how to learn front end development ~|2636|2|2024-06-24|
+|60|[bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu)|给飞书准备的 ChatGPT 机器人|1124|2|2024-05-19|
+|61|[meodai/color-names](https://github.com/meodai/color-names)|Large list of handpicked color names 🌈|2380|1|2024-10-06|
+|62|[shgopher/GOFamily](https://github.com/shgopher/GOFamily)|🔥 《Go 程序员宝典》：go 基础语法，go 并发模式，go runtime 实现原理 ，企业级 go 语言项目经验。|2177|1|2024-09-16|
+|63|[xiaomaoJT/QxScript](https://github.com/xiaomaoJT/QxScript)|QuantumultX 规则学习记录；请不要fork项目!!!|347|1|2024-10-11|
+|64|[kesixin/QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp)|微信小程序，考试小程序，答题小程序，刷题小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。|1280|1|2024-10-11|
+|65|[PKM-er/Pkmer-Docs](https://github.com/PKM-er/Pkmer-Docs)|Pkmer知识管理共建项目|421|1|2024-10-08|
+|66|[zhang-wangz/LeetCodeRating](https://github.com/zhang-wangz/LeetCodeRating)|一款对应力扣的浏览器油猴插件  TamperMonkey   Chrome|677|1|2024-04-16|
+|67|[wanghao221/moyu](https://github.com/wanghao221/moyu)|1000个摸鱼小游戏、小工具源码集合及在线演示|593|1|2024-04-26|
+|68|[WeChatAPIs/WeChatApi](https://github.com/WeChatAPIs/WeChatApi)|WeChatApi、wechat api、微信3.9.11、微信3.9.10、微信HOOK、微信机器人、wechathook、微信API、微信公众号采集、微信公众号爬虫、微信数据库|393|1|2024-09-04|
+|69|[jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)|A curated list of awesome JSON datasets that don't require authentication.|3311|1|2024-07-23|
+|70|[woai3c/Front-end-articles](https://github.com/woai3c/Front-end-articles)|分享我的编程经验和学习心得，订阅请点 watch|1538|1|2024-05-17|
+|71|[rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn)|Rust By Example 中文版(包含在线代码编辑器)|1843|1|2024-09-26|
+|72|[yisainan/web-interview](https://github.com/yisainan/web-interview)|我是齐丶先丶森，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！更多详见公众号「前端面试秘籍」|2645|1|2024-08-13|
+|73|[thomaspark/gridgarden](https://github.com/thomaspark/gridgarden)|A game for learning CSS grid layout 🥕|3198|1|2024-08-30|
+|74|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2403|1|2024-10-04|
+|75|[k1995/github-i18n-plugin](https://github.com/k1995/github-i18n-plugin)|GitHub官网汉化、中文翻译插件 :cn: |849|1|2024-07-25|
+|76|[csfive/composing-programs-zh](https://github.com/csfive/composing-programs-zh)|🦊 CS61A 教材 Composing Programs 的中文翻译|435|1|2024-07-23|
+|77|[yetone/bob-plugin-rapidapi-deepl-translator](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator)|DeepL RapidAPI 的 Bob 插件，可能是中国 macOS 用户可以无痛使用的相对合法的最便宜的 DeepL 翻译方案。|343|1|2024-07-16|
+|78|[nefe/redux-in-chinese](https://github.com/nefe/redux-in-chinese)|Redux 中文文档|3475|1|2024-06-20|
+|79|[Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor)|:guide_dog: Powerful lowcode vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many ...|442|1|2024-04-22|
+|80|[tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor)|Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/|1585|1|2024-10-09|
+|81|[Xiumuzaidiao/Day-night-toggle-button](https://github.com/Xiumuzaidiao/Day-night-toggle-button)|最近很火的折磨人挑战，复刻了一下，放到期末作业博客里了，大概有90%还原度(确实太折磨人了)|283|1|2024-05-22|
+|82|[marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript)|The sources for the Eloquent JavaScript book|3019|1|2024-08-27|
+|83|[talebook/talebook](https://github.com/talebook/talebook)|A simple books website. 一个简单的在线版个人书库。|3531|1|2024-08-24|
+|84|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|1242|1|2024-06-16|
+|85|[StaZhu/enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding)|A guide that teach you enable hardware HEVC decoding & encoding for Chrome / Edge, or build a custom version of Chromium / Electron that supports hardware & software HEVC decoding and hardware HEVC en ...|1207|1|2024-09-27|
+|86|[lihongxun945/gobang](https://github.com/lihongxun945/gobang)|javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）|1639|1|2024-10-01|
+|87|[journey-ad/sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)|Stable Diffusion web UI bilingual localization extensions. SD WebUI双语对照翻译插件|863|1|2024-08-03|
+|88|[cyao2q/files](https://github.com/cyao2q/files)|TVBox开源版,盒子软件分享|1295|1|2024-09-27|
+|89|[XPoet/js-data-structure-and-algorithm](https://github.com/XPoet/js-data-structure-and-algorithm)|从 0 到 1 学习 JavaScript 数据结构与算法|1523|1|2024-05-27|
+|90|[ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS)|微信公众号转RSS|650|1|2024-10-08|
+|91|[tw93/Maple](https://github.com/tw93/Maple)|🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。|306|1|2024-06-27|
+|92|[oxc-project/javascript-parser-in-rust](https://github.com/oxc-project/javascript-parser-in-rust)|Tutorial on writing a JavaScript Parser in Rust|487|1|2024-08-07|
+|93|[dingyong0214/ThorUI](https://github.com/dingyong0214/ThorUI)|ThorUI组件库，微信小程序项目代码分享，组件文档地址：https://www.thorui.cn/doc  |1127|1|2024-05-30|
+|94|[jimuyouyou/node-interview-questions](https://github.com/jimuyouyou/node-interview-questions)|Node.js面试题，侧重后端应用与对Node核心的理解|2264|1|2024-10-06|
+|95|[jasondu/wxa-plugin-canvas](https://github.com/jasondu/wxa-plugin-canvas)|小程序海报组件-生成朋友圈分享海报并生成图片|3102|1|2024-05-08|
+|96|[overtrue/share.js](https://github.com/overtrue/share.js)|一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等|3698|1|2024-07-29|
+|97|[lixi5338619/lxBook](https://github.com/lixi5338619/lxBook)|《爬虫逆向进阶实战》书籍代码库|610|1|2024-08-14|
+|98|[pysunday/sdenv](https://github.com/pysunday/sdenv)|sdenv补环境框架，完美过瑞数vmp理论通杀，配合瑞数vmp纯算法逆向项目（rs-reverse）更好学习原理，商标网更新后在线样例失效，可尝试使用其它网站试验(不保证有效)|292|1|2024-06-04|
+|99|[zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)|🇨🇳🎨Chinese traditional color cheatsheet online|2375|1|2024-09-15|
+|100|[wenhaomin/ChatGPT-PromptGenius](https://github.com/wenhaomin/ChatGPT-PromptGenius)|All-purpose prompts website with hierarchical classification system. Helps you quickly find and share wonderful prompts!  全面、有效的提示词大全网站，帮助提升生产力和质量。|333|1|2024-05-23|
+|101|[twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)|A collaborative pixel art project to teach people how to contribute to open-source|587|0|2024-06-14|
+|102|[pingan8787/Leo-JavaScript](https://github.com/pingan8787/Leo-JavaScript)|欢迎关注公众号“前端自习课”，本仓库包含丰富的前端学习资料，包括 JavaScript、前端框架、HTTP、GraphQL、TS、Vue、React、Webpack等，还有很多我的原创文章，喜欢的朋友欢迎stat。:rocket:持续更新中...|984|0|2024-10-09|
+|103|[WeiWenda/effect-note](https://github.com/WeiWenda/effect-note)|大纲笔记软件|248|0|2024-08-31|
+|104|[csxiaoyaojianxian/JavaScriptStudy](https://github.com/csxiaoyaojianxian/JavaScriptStudy)|JavaScript的学习代码总结，高级特性、数据结构、设计模式、typescript、vue、angular、react、node、webpack、weex、小程序、tensorflow…，JavaScript是世界上最好的语言！|690|0|2024-05-10|
+|105|[ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet)|Interactive cheatsheet, visualization of git.|333|0|2024-08-31|
+|106|[wulivictor/ExamOnline](https://github.com/wulivictor/ExamOnline)|微信小程序，考试小程序，答题小程序，刷题小程序，考公小程序，考研小程序，毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试预约，企业内部考核，内部培训等，注册师刷题，基于云开发，部署简单，免服务器和域名备案。|624|0|2024-08-14|
+|107|[jnlaoshu/MySelf](https://github.com/jnlaoshu/MySelf)|Clash、Stash、Surge、Loon、Quanx、Egern、Shadowrocket等自用配置。网上搜集，仅供参考！感谢大佬们的无私分享！|344|0|2024-10-07|
+|108|[oubingbing/school_wechat](https://github.com/oubingbing/school_wechat)|校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。|1010|0|2024-05-31|
+|109|[wu529778790/wu529778790.github.io](https://github.com/wu529778790/wu529778790.github.io)|神族九帝'博客|265|0|2024-10-11|
+|110|[tengj/SpringBootDemo](https://github.com/tengj/SpringBootDemo)|Spring Boot学习系列|1312|0|2024-06-04|
+|111|[xixiaoyao/CS224n-winter-together](https://github.com/xixiaoyao/CS224n-winter-together)|an Open Course Platform for Stanford CS224n (2020 Winter)|495|0|2024-05-03|
+|112|[NAOSI-DLUT/DLUT_SE_Courses](https://github.com/NAOSI-DLUT/DLUT_SE_Courses)|大连理工大学软件工程专业课程指南    开发区其他专业见组织内对应仓库|369|0|2024-09-29|
+|113|[yunnysunny/nodebook](https://github.com/yunnysunny/nodebook)|nodejs 基础教程|356|0|2024-10-07|
+|114|[anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library)|Curated list of framework component libraries for UI styles/toolkit|869|0|2024-10-07|
+|115|[country-regions/country-region-data](https://github.com/country-regions/country-region-data)|A source list of countries, regions and shortcodes in JSON and JS format.|407|0|2024-08-30|
+|116|[Daotin/Web](https://github.com/Daotin/Web)|📚 从零开始学 Web 前端系列图文教程。从零开始一步步带你进入前端的世界。|521|0|2024-05-16|
+|117|[yisainan/vue2](https://github.com/yisainan/vue2)|💯 比较好的vue2项目,值得借鉴与学习|703|0|2024-10-10|
+|118|[edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games)|A curated list of awesome and exceptional board games. Please contribute!|302|0|2024-10-01|
+|119|[ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)|:key: Curated list of awesome captcha libraries and crack tools.|1210|0|2024-06-04|
+|120|[songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards)|在 README 中展示你在知乎，GitHub，B 站，LeetCode，掘金，CSDN，牛客等网站的数据，也可用于服务状态监控. Show your LeetCode & GitHub stats in GitHub Profile.|289|0|2024-07-03|
+|121|[ops-coffee/demo](https://github.com/ops-coffee/demo)|这里汇聚了微信公众号【运维咖啡吧】文章中所讲到的各种demo|298|0|2024-09-04|
+|122|[foolstack-omg/block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing)|Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.|361|0|2024-07-24|
+|123|[pprp/SimpleCVPaperReading](https://github.com/pprp/SimpleCVPaperReading)|:smile:博客论文列表：分系列整理|390|0|2024-04-12|
+|124|[Wscats/node-tutorial](https://github.com/Wscats/node-tutorial)|:relaxed:Some of the node tutorial -《Node学习笔记》|530|0|2024-04-27|
+|125|[aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)|A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee ...|333|0|2024-10-09|
+|126|[mazipan/hello-open-source](https://github.com/mazipan/hello-open-source)|🖐️ A repository to learn about open source code contributions flow|590|0|2024-10-07|
+|127|[rudyxu1102/cross-origin](https://github.com/rudyxu1102/cross-origin)|A collection of simple demos of CORS|579|0|2024-06-19|
+|128|[NoneDay/CellReport](https://github.com/NoneDay/CellReport)|CellReport 是一个netcore实现的、以复杂统计报表为核心目标的制作、运行工具。支持数据看板、大屏制作。你可以使用数据库、excel文件、api服务、已有报表等为数据源，通过内置的集合函数组织数据，以类excel界面设计最终呈现结果。|421|0|2024-09-21|
+|129|[ninja33/anki-dict-helper](https://github.com/ninja33/anki-dict-helper)|Anki划词制卡助手 --  "划词翻译，一键制卡"|381|0|2024-05-06|
+|130|[bh-lay/blog](https://github.com/bh-lay/blog)|剧中人的nodeJS版个人博客，仅仅是前后端实现，不包含博文数据。|352|0|2024-09-26|
+|131|[decomoji/decomoji](https://github.com/decomoji/decomoji)|Custom icon collection for slack reaction|794|0|2024-08-13|
+|132|[bitshares/bitshares-ui](https://github.com/bitshares/bitshares-ui)|Fully featured Graphical User Interface / Reference Wallet for the BitShares Blockchain|517|0|2024-09-19|
+|133|[xiaohesong/TIL](https://github.com/xiaohesong/TIL)|本库记录每日所学，README是一些链接；学习是自己的事。|297|0|2024-05-17|
+|134|[alphapapa/emacs-package-dev-handbook](https://github.com/alphapapa/emacs-package-dev-handbook)|An Emacs package development handbook. Built with Emacs, by Emacs package developers, for Emacs package developers.|1131|0|2024-04-22|
+|135|[feverrun/my_scripts](https://github.com/feverrun/my_scripts)|学习使用|349|0|2024-10-11|
+|136|[shengxinjing/fe-advanced-interview](https://github.com/shengxinjing/fe-advanced-interview)|前端进阶面试指南|1414|0|2024-04-16|
+|137|[WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp)|Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.|615|0|2024-08-03|
+|138|[jiangshanmeta/meta](https://github.com/jiangshanmeta/meta)|leetcode javascript/typescript实现|261|0|2024-10-11|
+|139|[weishakeji/LearningSystem](https://github.com/weishakeji/LearningSystem)|前后端分离（MVVM架构），C#、Sqlserver、Vue。web端采用ElementUI，手机端采用VantUI，管理后台采用WebdeskUI。直播、视频学习、试题练习、测试、考试、学习证明、成绩打印，真正实现“学、练、考”一体。微信支持、支付宝支付。私有化部署，永久授权，终身享用。安装量超三万家。|295|0|2024-09-27|
+|140|[Jackson0714/PassJava-Learning](https://github.com/Jackson0714/PassJava-Learning)|整合了Spring Cloud 实战教程+公众号内容都会同步到这个仓库。文档地址：http://www.passjava.cn|286|0|2024-09-02|
+|141|[OBKoro1/web-basics](https://github.com/OBKoro1/web-basics)|大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。|559|0|2024-04-25|
+|142|[WTFAcademy/WTF-JavaScript](https://github.com/WTFAcademy/WTF-JavaScript)|我最近在重新学 JavaScript, 巩固一下细节, 也写一个“WTF JavaScript极简入门”，供新人学习。|250|0|2024-07-25|
+|143|[realyao/WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock)|微信小程序【专注时钟】（v1.2.2）；时间规划、效率工具类、入门|513|0|2024-07-27|
+|144|[vvo/tzdb](https://github.com/vvo/tzdb)|🕰 Simplified, grouped and always up to date list of time zones, with major cities|784|0|2024-10-10|
+|145|[plantree/ruanyf-weekly](https://github.com/plantree/ruanyf-weekly)|VitePress构建阮一峰的技术周刊|284|0|2024-10-11|
+|146|[MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages)|A collection of languages stemmers and stopwords for Lunr Javascript library|431|0|2024-07-06|
+|147|[Messiahhh/blog](https://github.com/Messiahhh/blog)|akara的前端笔记|358|0|2024-07-11|
+|148|[alantang1977/X](https://github.com/alantang1977/X)|📛本仓库管理者不能保证本仓库内容的合法性、准确性、完整性和有效性，请根据情况自行判断。本仓库内容，仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途，禁止任何公众号、自媒体进行任何形式的转载、发布，请不要在中华人民共和国境内使用本仓库内容，否则后果自负。|289|0|2024-10-11|
+|149|[liguobao/HouseSearch](https://github.com/liguobao/HouseSearch)|地图搜租房【微信公众号、小程序：人生删除指南】|1341|0|2024-09-11|
+|150|[oTranscribe/oTranscribe](https://github.com/oTranscribe/oTranscribe)|A free & open tool for transcribing audio interviews|1060|0|2024-05-11|
+|151|[chai2010/gopherchina2018-cgo-talk](https://github.com/chai2010/gopherchina2018-cgo-talk)|:book: GopherChina2018: 深入CGO编程 - 最新修订|334|0|2024-06-30|
+|152|[biuuu/BLHXFY](https://github.com/biuuu/BLHXFY)|碧蓝幻想翻译|277|0|2024-10-10|
+|153|[transitive-bullshit/ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat)|Concats a list of videos together using ffmpeg with sexy OpenGL transitions.|880|0|2024-10-07|
+|154|[anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books)|Learn books from TCP/IP   HTTP(s)   HTML、CSS、JS、JQuery   Vue   PHP   Web   Web Server|922|0|2024-09-13|
+|155|[yeyan1996/practical-javascript](https://github.com/yeyan1996/practical-javascript)|28 JavaScript Skills a Qualified Intermediate Front-End Engineer Needs to Master|370|0|2024-09-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

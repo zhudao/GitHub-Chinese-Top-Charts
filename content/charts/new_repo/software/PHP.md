@@ -1,41 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[PGYER/codefever](https://github.com/PGYER/codefever)|CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!|2169|2022-07-24|2022-01-19|
-|2|[luolongfei/freenom](https://github.com/luolongfei/freenom)|Freenom 域名自动续期。Freenom domain name renews automatically.|1765|2022-07-28|2021-09-10|
-|3|[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)|个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡|519|2022-06-14|2021-11-27|
-|4|[flucont/btcloud](https://github.com/flucont/btcloud)|一个宝塔第三方云端的php站点程序|428|2022-07-31|2022-06-04|
-|5|[modstart/ModStartCMS](https://github.com/modstart/ModStartCMS)|模块化内容管理系统 modstart.com|316|2022-07-22|2021-08-25|
-|6|[dtm-php/dtm-client](https://github.com/dtm-php/dtm-client)|A PHP coroutine client for distributed transaction manager DTM. 分布式事务管理器 DTM 的 PHP 协程客户端|276|2022-08-02|2022-02-07|
-|7|[zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3)|bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载（含直链）等。|259|2022-07-01|2021-09-24|
-|8|[StarCrossPortal/QingTing](https://github.com/StarCrossPortal/QingTing)|蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~|251|2022-07-27|2022-04-29|
-|9|[zyx0814/Pichome](https://github.com/zyx0814/Pichome)|欧奥PicHome是用于欧奥图文档系统的图片展示门户，图片搜索引擎。也能够用于Eagle等其他图库软件的图片展示门户。|224|2022-07-12|2021-09-16|
-|10|[osuuu/LightPicture](https://github.com/osuuu/LightPicture)|企业/团队/个人图片资源管理系统、图床系统|216|2022-02-27|2022-01-16|
-|11|[tinyphporg/tinyphp](https://github.com/tinyphporg/tinyphp)|A lightweight PHP MVC framework for Full Stack Developer/一款面向PHP全栈工程师的轻量级高性能MVC PHP框架。|210|2022-07-24|2021-11-01|
-|12|[youyingxiang/Discover](https://github.com/youyingxiang/Discover)|Discover 是一个基于 Dcat-admin 开发的进销存系统|209|2022-05-06|2021-10-22|
-|13|[wehaox/Typecho-Butterfly](https://github.com/wehaox/Typecho-Butterfly)|Hexo主题Butterfly的Typecho移植版———开源不易，帮忙点个star，谢谢了🌹|193|2022-07-12|2021-08-14|
-|14|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|155|2022-03-04|2021-12-13|
-|15|[mantoufan/alipay-global-sdk-php](https://github.com/mantoufan/alipay-global-sdk-php)|Alipay global Third Party SDK with Authorization and Auto debit. Alipay 国际版 A+ 接口第三方 PHP SDK，实现了现金支付、用户授权、自动代扣和 RSA2 加密异步通知应答，示例完整，使用简单|152|2022-04-22|2022-01-13|
-|16|[likeyun/liKeYun_Dwz](https://github.com/likeyun/liKeYun_Dwz)|这是一套开源、免费、自建的短链接生成程序，可以通过本套程序快速自建属于自己的短链接生成平台，有丰富的功能和便捷的API，可以帮助你进行各项推广任务！|144|2022-07-25|2021-10-28|
-|17|[0x727/BugRepoter_0x727](https://github.com/0x727/BugRepoter_0x727)|BugRepoter_0x727(自动化编写报告平台)根据安全团队定制化协同管理项目安全，可快速查找历史漏洞，批量导出报告。|126|2022-02-11|2021-09-26|
-|18|[codeartx/awesome-security](https://github.com/codeartx/awesome-security)|广泛搜集、测试千余款开源安全产品，精心挑选300+ 款多star、更新活跃的高质量库，非常适合初学者快速入手安全技术栈、少走弯路。|110|2022-07-22|2022-07-09|
-|19|[kkguan/validation](https://github.com/kkguan/validation)|高性能的验证器组件(Validation)，适用于 Hyperf 或 Laravel 框架，可获得数百倍的性能提升|75|2022-02-23|2021-09-24|
-|20|[paopao233/baolog](https://github.com/paopao233/baolog)|wordpress线报主题，发羊毛，我就要专一~|68|2022-04-11|2021-08-26|
-|21|[Yurunsoft/php-tdengine](https://github.com/Yurunsoft/php-tdengine)|大数据引擎 TDengine 的 PHP 客户端扩展，支持 Swoole！|51|2022-06-21|2021-12-21|
-|22|[MatthK/swfd](https://github.com/MatthK/swfd)|Selfoss Webfront Docker|49|2022-02-14|2021-09-20|
-|23|[kvnZero/hyperf-APIJSON](https://github.com/kvnZero/hyperf-APIJSON)|基于Hyperf的APIJSON项目|46|2022-04-22|2021-11-02|
-|24|[yi005/Tiktok-Video-No-Watermark](https://github.com/yi005/Tiktok-Video-No-Watermark)|Tiktok Video Without Watermark.Tiktok短视频去水印。|43|2022-06-10|2021-11-19|
-|25|[lonquan/easy-lark](https://github.com/lonquan/easy-lark)|飞书开放平台 PHP SDK|42|2022-04-14|2022-03-10|
-|26|[usualtool/ut-forum](https://github.com/usualtool/ut-forum)|UTForum是一款简洁的社区论坛系统，基于UT框架开发，遵循Apache2.0开源。|37|2022-05-30|2022-05-30|
-|27|[yeyingorg/php_bwh_stock_checker](https://github.com/yeyingorg/php_bwh_stock_checker)|PHP搬瓦工即时库存检测aff站|35|2022-07-17|2022-01-17|
-|28|[hisune/emby_pinyin](https://github.com/hisune/emby_pinyin)|使 emby 或 jellyfin 支持电影、电视剧和音乐拼音排序|33|2022-08-02|2022-05-26|
-|29|[jrotty/CommentNotifier](https://github.com/jrotty/CommentNotifier)|Typecho评论提醒插件，要求Typecho1.2.0及以上版本|29|2022-06-24|2022-04-22|
-|30|[simo8102/809](https://github.com/simo8102/809)|联通809|29|2022-07-07|2022-03-13|
-|31|[tinyphporg/tinyphp-framework-1.0](https://github.com/tinyphporg/tinyphp-framework-1.0)|一款经过生产环境检验(日PV10亿级)的轻量级PHP框架，此为1.0高性能版本，毫秒级响应。|29|2022-06-10|2022-02-21|
+|1|[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)|Open-source event management and ticket selling platform. Perfect for concerts, conferences, and everything in between 🎟️|1963|2024-10-08|2023-10-24|
+|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|1841|2024-10-09|2023-11-14|
+|3|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|342|2024-10-11|2024-04-03|
+|4|[Aabyss-Team/Antivirus-Scan](https://github.com/Aabyss-Team/Antivirus-Scan)|What AV? 一款轻量级的杀软在线识别的项目，持续更新ing|160|2024-10-01|2024-08-26|
+|5|[taksssss/PHP-EPG-Docker-Server](https://github.com/taksssss/PHP-EPG-Docker-Server)|用 php 实现的 EPG 服务端， Docker🐳 部署，带设置界面、台标管理，支持 DIYP & 百川 、 超级直播 以及 xmltv 格式。|113|2024-10-10|2024-07-10|
+|6|[Xinslive/MiniPix](https://github.com/Xinslive/MiniPix)|一款专为个人需求设计的高效图床解决方案，集成了强大的图片压缩功能与优雅的前台后台界面。项目结构精简高效，提供自定义图片压缩率与尺寸设置，有效降低存储与带宽成本。|112|2024-10-11|2024-06-30|
+|7|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端，基于webman高性能HTTP服务框架开发的后端中台管理系统|106|2024-10-11|2024-01-20|
+|8|[webman-php/midjourney-proxy](https://github.com/webman-php/midjourney-proxy)|全功能Midjourney Discord代理，支持Midjourney所有功能，稳定，免费|93|2024-09-12|2024-03-12|
+|9|[pbootcmspro/PbootCMS](https://github.com/pbootcmspro/PbootCMS)|PbootCMS是全新内核且永久开源免费的PHP企业网站开发建设管理系统，是一套高效、简洁、 强悍的可免费商用的PHP CMS源码，能够满足各类企业网站开发建设的需要。系统采用简单到想哭的模板标签，只要懂HTML就可快速开发企业网站。官方提供了大量网站模板免费下载和使用，将致力于为广大开发者和企业提供最佳的网站开发建设解决方案。|90|2024-09-24|2023-12-22|
+|10|[JLinMr/PixPro](https://github.com/JLinMr/PixPro)|PixPro 一款个人需求的高效图床，集成了强大的图片压缩功能与优雅的前台。后台管理瀑布流展示和AJAX刷新，能有效降低存储与带宽成本。|80|2024-09-19|2024-07-13|
+|11|[TGsuoyin/trx](https://github.com/TGsuoyin/trx)|最新TG机器人 波场TRON能量租赁机器人、TRX能量自助租赁、TRX兑换、自动回能量、商城、地址监听、会员24小时自助购买 -完整功能 https://t.me/trxdhu1_bot|61|2024-10-09|2024-01-20|
+|12|[Hyizhou1/trx](https://github.com/Hyizhou1/trx)|tg机器人 trx兑换、能量租赁、trx闪兑自动回能量、商城、地址监听、会员24小时自助购买，TG验群机器人，TG引流机器人，TG算账机器人，TG代摇快三牛牛推机器人 -完整功能 https://t.me/hongsx|60|2024-05-23|2024-02-19|
+|13|[ProbiusOfficial/PHPinclude-labs](https://github.com/ProbiusOfficial/PHPinclude-labs)|【Hello-CTF labs】PHP文件包含类靶场，各类协议的讲解以及基于协议的LFI/RFI|59|2024-10-11|2024-07-28|
+|14|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。力求极简，对程序自带功能进行禁用及优化，主题无 JS、图片文件引用。|54|2024-09-22|2023-11-30|
+|15|[whitebearcode/typecho-beargallery](https://github.com/whitebearcode/typecho-beargallery)|一款简洁优雅的Typecho摄影类相册主题|48|2024-07-22|2024-04-10|
+|16|[fordes123/ITEM](https://github.com/fordes123/ITEM)|Typecho 网址导航主题|47|2024-09-05|2024-02-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

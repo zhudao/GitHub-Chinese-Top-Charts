@@ -1,18 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|3112|2|2022-03-01|
-|2|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法|719|2|2022-03-25|
-|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|430|1|2022-02-23|
-|4|[sunshineclover/HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)|合肥工业大学宣城校区 电子信息科学与技术专业课程资料|9|0|2022-03-23|
-|5|[QiuJueqin/ISP-based-on-responses-prediction-model](https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model)|Study on Methodology and Technology of Digital Camera Image signal Processing Based on Raw Responses Prediction Model|29|0|2022-03-10|
-|6|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|52|0|2022-04-03|
-|7|[gear0803/SEITNoteBook](https://github.com/gear0803/SEITNoteBook)|本项目收集了一些中山大学电子与信息工程学院的课程资料 喜欢的话别忘了点个star🌟|3|0|2022-02-19|
-|8|[ohmyjesus/robotProject](https://github.com/ohmyjesus/robotProject)|研究生期间完成的项目代码 -- 包括机械臂运动学、动力学建模，轨迹规划、运动控制仿真以及参数辨识等的相关知识|9|0|2022-04-01|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3586|4|2024-10-01|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1430|1|2024-07-27|
+|3|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|0|2024-08-15|
+|4|[tqlnb/servo_motor_study](https://github.com/tqlnb/servo_motor_study)|伺服电机以及simulink建模学习|3|0|2024-08-02|
+|5|[infinity-07/Numerical-analysis-code](https://github.com/infinity-07/Numerical-analysis-code)|使用MATLAB实现数值分析课程的算法|17|0|2024-07-10|
+|6|[yan-fanyu/CUMCM-Paper-And-SourceCode](https://github.com/yan-fanyu/CUMCM-Paper-And-SourceCode)|CUMCM 2010年-2023年全国大学生数学建模竞赛论文和源代码（Paper and source code for the 2010-2023 National College Student Mathematical Modeling Competition）|11|0|2024-09-09|
+|7|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|60|0|2024-08-14|
+|8|[LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB](https://github.com/LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB)|该项目需将多个eis数据（包含频率、实部、虚部）汇总到一个excel表格中（每个sheet一份数据），可将多个eis数据批量转化为DRT图谱。|6|0|2024-09-19|
+|9|[LiZhengXiao99/INS_Course_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab)|安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。|16|0|2024-06-12|
+|10|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU & BJTU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|20|0|2024-04-25|
+|11|[Ahalikai/MOEA](https://github.com/Ahalikai/MOEA)|Live and learn. Understanding and Matlab reproduction of some classical algorithms (such as MOEA, Surrogate Model, Reinforcement Learning etc.). 对一些经典算法的理解和Matlab代码复现（如：多目标优化、代理模型、强化学习等）。|3|0|2024-09-11|
+|12|[vectorZeng/CUG_Automation](https://github.com/vectorZeng/CUG_Automation)|中国地质大学 （武汉） 自动化专业 课程资料共享|4|0|2024-09-12|
+|13|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|20|0|2024-05-31|
+|14|[barkure/MATLAB-Projects](https://github.com/barkure/MATLAB-Projects)|本科期间一些课程涉及到的 MATLAB 代码|3|0|2024-05-03|
+|15|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|10|0|2024-09-14|
+|16|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|6|0|2024-08-15|
+|17|[Dilettante258/MathExpA](https://github.com/Dilettante258/MathExpA)|2024年 南京邮电大学 数学实验A 作业留档。参考教材：《MATLAB数学实验》 第三版(胡良剑 孙晓君)|3|0|2024-04-22|
+|18|[chenguangwei/tech-knowledge](https://github.com/chenguangwei/tech-knowledge)|整理自己的一些 github stars项目和学习记录|11|0|2024-10-11|
+|19|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|论文“增强型白骨顶鸡优化算法及其应用”的代码，实验与COA、PSO、WOA、BOA、AEO、HHO、AVOA七种群智能算法进行比较|14|0|2024-07-01|
+|20|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|126|0|2024-05-14|
+|21|[lankerr/BIT_2023_DSP-RADAR](https://github.com/lankerr/BIT_2023_DSP-RADAR)|2023北京理工大学数字信号处理和雷达课程的matlab代码|3|0|2024-05-06|
+|22|[zhao-zhibo/INS](https://github.com/zhao-zhibo/INS)|INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业. |12|0|2024-05-31|
+|23|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|4|0|2024-09-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
